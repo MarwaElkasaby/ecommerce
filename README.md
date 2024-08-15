@@ -29,4 +29,6 @@ To set up this project locally, follow these steps:
 - **Email:** MarwaK@gmail.com
 - **Password:** M123456
 
-https://github.com/MarwaElkasaby/ecommerce/issues/1
+  ## Demo video:
+https://github.com/user-attachments/assets/961347af-2033-4e2f-9cf7-2c82db2c8412
+
