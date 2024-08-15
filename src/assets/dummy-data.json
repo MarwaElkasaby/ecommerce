@@ -1,0 +1,401 @@
+[
+    {
+        "id": 1046,
+        "name": "Lippie Stix",
+        "image_link": "https://www.reneecosmetics.in/cdn/shop/files/renee-stunner-matte-lipstick-4gm-renee-cosmetics-11.jpg?v=1691477163",
+        "category": "lipstick",
+        "description": "Lippie Stix Formula contains Vitamin E, Mango, Avocado, and Shea butter for added comfort and moisture. None of our Lippie formulas contain any nasty ingredients like Parabens or Sulfates.",
+        "price": "5.5",
+        "rating": 3.8,
+        "product_type": "lipstick"
+    },
+    {
+        "id": 1146,
+        "name": "Lip stick",
+        "image_link": "https://cdn.shopify.com/s/files/1/1338/0845/collections/blottedlip-lippie-stix_grande.jpg?v=1512588803",
+        "category": "lipstick",
+        "description": "None of our Lippie formulas contain any nasty ingredients like Parabens or Sulfates.",
+        "price": "5.5",
+        "rating": 3.8,
+        "product_type": "lipstick"
+    },
+    {
+        "id": 1147,
+        "name": "Lippie Stick",
+        "image_link": "https://www.lakmeindia.com/cdn/shop/files/29663_H-8901030974021_1000x.jpg?v=1719996516",
+        "category": "lipstick",
+        "description": "Lippie Stix Formula contains Vitamin E, Mango, Avocado.",
+        "price": "5.5",
+        "rating": 3.8,
+        "product_type": "lipstick"
+    },
+    {
+        "id": 1140,
+        "name": "Lippie gloss",
+        "image_link": "https://i5.walmartimages.com/seo/Maybelline-SuperStay-Vinyl-Ink-Liquid-Lipstick-Lippy_11e2777a-590d-4449-821d-37f26d4ad76a.b1ef7a10917c271642b879e14657b1f1.png",
+        "category": "lipstick",
+        "description": "Lippie Stix Formula contains Vitamin E, Mango, Avocado, and Shea butter for added comfort and moisture. None of our Lippie formulas contain any nasty ingredients like Parabens or Sulfates.",
+        "price": "5.5",
+        "rating": 3.8,
+        "product_type": "lipstick"
+    },
+    {
+        "id": 1142,
+        "name": "Lip stix",
+        "image_link": "https://xoxo-eg.com/cdn/shop/products/Essence-Extreme-Shine-Volume-Lip-Gloss-XOXO-Beauty-Cosmetics-6.jpg?v=1717243861",
+        "category": "lipstick",
+        "description": "Lippie Stix Formula containsShea butter for added comfort and moisture.",
+        "price": "5.5",
+        "rating": 3.8,
+        "product_type": "lipstick"
+    },
+    {
+        "id": 1143,
+        "name": "Lip gloss",
+        "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTuMc-btf1k7pgqegcbdEVV7LuXs5HgMNYOA&s",
+        "category": "lipstick",
+        "description": "Lip glos Formula contains Vitamin E and Mango.",
+        "price": "5.5",
+        "rating": 3.8,
+        "product_type": "lipstick"
+    },
+    {
+        "id": 1026,
+        "name": "Mineral Blush",
+        "image_link": "https://m.media-amazon.com/images/I/619CDWDsODL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Formulated to reduce the appearance of pores while creating a long-lasting natural finish.  This MarieNatie brush protects skin with SPF15.  Sericite mica is great for absorbing oil and won’t clog up pores.  Mica is a natural mineral that helps to enhance the skin tone.",
+        "price": "10.0",
+        "rating": 4,
+        "product_type": "blush"
+    },
+    {
+        "id": 1017,
+        "name": "Creme to Powder Blush",
+        "image_link": "https://m.media-amazon.com/images/I/41ivlZDlAzL._SR290,290_.jpg",
+        "category": "cream",
+        "description": "A cream to powder blush made with all natural ingredients that applies like a soft cream but finishes like a silky powder. Antioxidant-rich botanicals help moisturize the skin, while natural pigments provide long-lasting buildable color for a healthy, radiant glow. Made with natural and organic ingredients.",
+        "price": "0.0",
+        "rating": 4.2,
+        "product_type": "blush"
+    },
+    {
+        "id": 1003,
+        "name": "Cloud Paint",
+        "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCWGN3iQxWUnLRdeOzOzPdMjRnD-z9uICZxA&s",
+        "category": "cream",
+        "description": "With Cloud Paint, we set out to make blush the high point of your routine. The pillowy, gel-cream formula is designed to be the most user-friendly cheek color in existence. If you can finger paint, you can Cloud Paint—simply dab it onto cheeks wherever you please. It’s seamless, sheer, and buildable (i.e. it’s hard to accidentally apply too much). Inspired by gradient pink NYC sunsets, the shades are optimized to work across a wide range of skin tones for a healthy, flushed-from-within glow.",
+        "price": "22.0",
+        "rating": 3.8,
+        "product_type": "blush"
+    },
+    {
+        "id": 924,
+        "name": "Sweet Cheeks Blush Palette",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwa0a9cf48/ProductImages/2016/Face/Sweet_Cheeks_Blush_Palette/sweetcheeksblushpalette_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "Blush",
+        "description": "Get swept away by our drop-dead gorgeous Sweet Cheeks Blush Palette. This collection features eight highly pigmented and buttery-smooth colors that flawlessly suit any skin tone. Perfect for everyone from the pro on the go to the budding beauty guru, our irreplaceable set brings together a variety of exclusive shades in both matte and shimmery finishes. It’s true--we’ve got a serious blush crush!",
+        "price": "20.0",
+        "rating": 3,
+        "product_type": "blush"
+    },
+    {
+        "id": 923,
+        "name": "Cheek Contour Duo Palette",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwb9e0511a/ProductImages/2016/Face/Cheek_Contour_Duo_Palette/800897012007_cheekcontourduopalette_doubledate_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "Blush",
+        "description": "Create natural-looking contours, sun-kissed cheeks and a gorgeous, lit-from-within glow with our new Cheek Contour Duos. Available in six silky shade combinations, each luxurious compact makes it easy to perfect your complexion on the go.",
+        "price": "9.0",
+        "rating": 4,
+        "product_type": "blush"
+    },
+    {
+        "id": 922,
+        "name": "High Definition Blush Pro Refills",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw587b93a7/ProductImages/Face/High_Definition_Pro_Blush_Refills/highdefinitionproblushrefills_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "Blush",
+        "description": "",
+        "price": "6.0",
+        "rating": 3,
+        "product_type": "blush"
+    },
+    {
+        "id": 920,
+        "name": "Rouge Cream Blush",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw91979480/ProductImages/Face/Rouge_Cream_Blush/rougecreamblush_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "Blush",
+        "description": "More delicious than peaches and cream? We like to think so. Our velvety smooth mineral Rouge Cream Blush offers a sheer wash of radiant color. The glorious payoff is dewy sultry and long-lasting.",
+        "price": "6.0",
+        "rating": 3.8,
+        "product_type": "blush"
+    },
+    {
+        "id": 1020,
+        "name": "Eyeliner",
+        "image_link": "https://static.beautytocare.com/media/catalog/product/e/s/essence-liquid-ink-eyeliner-waterproof-02-ash-brown-3ml.jpg",
+        "category": "pencil",
+        "description": "An eyeliner that offers long lasting colour and a natural smooth finish.  Both jojoba oil and meadowfoam oil have amazing moisturizing properties to help repair skin.  Beeswax is known for its healing properties and will help to improve skin conditions.",
+        "price": "30.0",
+        "rating": 4,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 1006,
+        "name": "Fearless Eyeliner",
+        "image_link": "https://www.bareminerals.com/cdn/shop/products/H22_Maximist_Eyeliner_HIRES300_1ProductImage_LORES_12b28ff1-5c81-48a8-b6ff-58e1286354b4.jpg?v=1678827608&width=1100",
+        "category": "pencil",
+        "description": "Make eyes pop with this velvety smooth eyeliner that glides on effortlessly and precisely. Make your eyes pop with this sleek, easy-to-use eyeliner. Formulated with both jojoba seed oil and shea butter, its velvety smooth formula glides on effortlessly and precisely. To sharpen, place inside sharpener and turn the pencil gently to create a working tip. Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol  Dermatologist Tested Clinically Tested on Sensitive Skin Hypoallergenic Made with Natural Ingredients",
+        "price": "19.0",
+        "rating": 4,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 969,
+        "name": "Holographic Halo Cream Eyeliner",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwc135311a/ProductImages/2018/Eyes/Holographic_Halo_Cream_Liner/holographichalocreamliner_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "cream",
+        "description": "Line your lids in holographic color with our Holographic Halo Cream Eyeliners! Inspired by all-things-unicorn, this unique formula uses ultra-fine, pigmented pearls to create a sleek, shimmering line, or it can be blended out to an intense, holographic eyeshadow. Available in five of the prettiest pastels you’ve ever seen.",
+        "price": "11.0",
+        "rating": 4.2,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 968,
+        "name": "Cake That! Powder Eyeliner",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwb7f857fa/ProductImages/2017/Eyes/Cake_That_Powder_Eyeliner/cakethatpowdereyeliner_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "cream",
+        "description": "",
+        "price": "8.0",
+        "rating": 3.9,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 967,
+        "name": "Epic Black Mousse Liner",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw1f473566/ProductImages/Eyes/Epic_Black_Mousse_Liner/800897832162_epicblackmousseliner_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "cream",
+        "description": "Amazingly fluffy and lightweight, our innovative Epic Black Mousse Liner glides on oh-so-soft and smooth! This waterproof eyeliner dries to a pigmented matte finish that looks totally EPIC.",
+        "price": "10.0",
+        "rating": 3.9,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 966,
+        "name": "Cosmic Gel Liner",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw62a7d3b0/ProductImages/2016/Eyes/Cosmic_Gel_Liner/800897016364_cosmicgelliner_interstellar_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "gel",
+        "description": "Swap your standard wing for eyes that twinkle like stars! A beam of Cosmic Gel Eye Liner makes an out of this world statement through an intense burst of sparkle and bold color. Available in three shades packed with interstellar shimmer, this formula glides on silky-smooth and is super easy to blend. Like our fan fave Gel Liner and Smudger, these rich colors stay put for strong galactic glam.",
+        "price": "10.0",
+        "rating": 4,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 965,
+        "name": "Gel Liner And Smudger",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw7fa3d736/ProductImages/Eyes/Gel_Liner_And_Smudger/gellinerandsmudger_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "gel",
+        "description": "Our Gel Liner & Smudger delivers bold color that won’t quit. Whether you’re after a perfectly defined line or a smokey eye, these silky shades blend easily and don’t crease or fade. This pigmented formula is now available in two brand new shades.",
+        "price": "9.0",
+        "rating": 2,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 964,
+        "name": "Metallic Eyeliner",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw1a50507a/ProductImages/2018/Eyes/Metallic_Eyeliner/metalliceyeliner_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "pencil",
+        "description": "Spend some quality glam time with our Metallic Eyeliners. From copper to rose gold and silver, this creamy-soft pencil is available in six dazzling shades. Each pigment rich eyeliner slides on effortlessly and loads your lids with a metallic-matte finish. Down to the last swipe? Sharpen your go-to hue to uncover more intense color.",
+        "price": "8.0",
+        "rating": 2.5,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 963,
+        "name": "Tres Jolie Gel Pencil Liner",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw85212794/ProductImages/Eyes/Tres_Jolie_Gel_Pencil_Liner/tresjoliegelpencilliner_main.jpg?sw=390&sh=390&sm=fit",
+        "category": "pencil",
+        "description": "Our high-powered twist-up gel liner has the same payoff and precision as a pot without having to use a brush. It comes with a sharpener to ensure precise application every time.",
+        "price": "12.0",
+        "rating": 3.5,
+        "product_type": "eyeliner"
+    },
+    {
+        "id": 1038,
+        "name": "B Smudged",
+        "image_link": "https://www.sephora.com.kw/dw/image/v2/BKWK_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwa1af664a/images/hi-res/SKU/SKU_5276/720579_swatch.jpg?sw=585&sh=585&sm=fit",
+        "category": "",
+        "description": "Let your eyes naturally pop with our B Smudged, a subtle eye color that adds a tint of color to the base of your lashes. An organic, cream eye color, B Smudged eliminates the inevitable uneven line from traditional eyeliners, and does not require expert blending techniques of messy, powder-based shadows. Simply 'smudge' along lash line for color that stays in place for a long lasting look.",
+        "price": "27.0",
+        "rating": 4,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1036,
+        "name": "Multi Purpose Powder - Blush & Eye",
+        "image_link": "https://praush.com/cdn/shop/files/Eyeshdow_Image.jpg?v=1689311655&width=600",
+        "category": "",
+        "description": "Our Multi Purpose Pressed Powders may be used for blush or eye shadow. Blended with antioxidants from Certified Organic Fruits, Berries &amp; Botanicals*. Made without any gluten containing ingredients. Mica free Pink Parfait and Papaya will offer a natural, ultra sheer semi-matte finish. The petals from beautiful crushed red roses that are found in Pink Parfait, are valued for their natural color and delightful aroma that they provide! Acai Berry will offer a natural, ultra sheer satin finish (mica added). VEGAN. Image one is Pink Parfait. Image two is Papaya, and image three is Acai Berry. Model in image four is wearing Papaya. Model in image five is wearing Acai Berry. To see a demonstration of Papaya, click on the video and fast forward to 3:44. Enjoy! This product is EWG VERIFIED&#x2122; and rated 'CLEAN'in the Think Dirty app! BPA and Phthalate free packaging. Plastic parts of compacts are recyclable. *Tiny flecks of fruit and botanical particles may be visible in powder. Pink Parfait and Papaya are Titanium Dioxide and Mica free. Net Weight: 2.8 gm.",
+        "price": "27.0",
+        "rating": 3,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1034,
+        "name": "Multi Purpose Powder - Eye Shadow & Face",
+        "image_link": "https://luckychick.com/cdn/shop/files/Daydreams-Eyeshadow-Palette-0.png?v=1705803857",
+        "category": "",
+        "description": "Our Multi Purpose Pressed Powders may be used as eye shadow, brow powder, eye liner, or for highlighting. Blended with antioxidants from Certified Organic Fruits, Berries &amp; Botanicals*. No gluten derived ingredients. VEGAN. All shades will offer a semi-matte finish, with the exception of White Diamond. White Diamond will offer a shimmery finish. Image one shows shade in Iris. This product is EWG VERIFIED&#x2122; and rated 'CLEAN' in the Think Dirty app! BPA and Phthalate free packaging. Plastic parts of compacts are recyclable.",
+        "price": "80.0",
+        "rating": 4.3,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1027,
+        "name": "Pressed Eye Shadow",
+        "image_link": "https://natashadenona.com/cdn/shop/files/Midi-Xenon-758013.png?v=1719395985",
+        "category": "",
+        "description": "Hypoallergenic shadows that are rich in colour with a lightweight texture.  These MarieNatie shadows are fragrance-free and will stay on all day.   Compact comes with a mini brush that can be stored away.  Titanium dioxide acts as an absorbent of oil and jojoba cleanses and moisturizes the skin.",
+        "price": "78.0",
+        "rating": 4,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1024,
+        "name": "Loose Mineral Eyeshadow",
+        "image_link": "https://cdn.shopify.com/s/files/1/0127/2332/products/The-Necessary-Eyeshadow-Palette_Warm_Open_BB_resizedandbaseline_White_Background_deba2307-0241-4791-a9ee-cb63ca79eff1.jpg?v=1596064096&width=640&format=jpeg",
+        "category": "",
+        "description": "Long-lasting eye colours delivering an instant glam and shimmer.  Silky and soft texture of MarieNatie glides on easily when applied wet or dry.  Magnesium stearate repels water and will help keep your eye shadow on all day and absorb any extra oil.  Kaolin clay will help to purify, soothe different skin types.",
+        "price": "110.0",
+        "rating": 2.9,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1016,
+        "name": "Eye Shadow Palette Mesmerize",
+        "image_link": "https://essencemakeup.com/cdn/shop/products/4059729323705_Open_500x500_crop_center.jpg?v=1622751915",
+        "category": "palette",
+        "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+        "price": "150.0",
+        "rating": 4,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1015,
+        "name": "Eye Shadow Palette Deluxe",
+        "image_link": "https://data.wyconcosmetics.com/images/galleries/6222/wycon_GlamEyes_1.jpg",
+        "category": "palette",
+        "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+        "price": "70.0",
+        "rating": 2.5,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1014,
+        "name": "Eye Shadow Palette Smokey",
+        "image_link": "https://rukminim2.flixcart.com/image/850/1000/kqzj7gw0/eye-shadow/o/a/1/15-perfect-mix-eyeshadow-palette-hudabar-original-imag4vfsahpgbz8g.jpeg?q=90&crop=false",
+        "category": "palette",
+        "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+        "price": "80.0",
+        "rating": 4.1,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1013,
+        "name": "Eye Shadow Palette Seduction",
+        "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mCBmTNucwqmxPx0DmpEv1W2ouNCpwFPwyu6gsKdy_soHm3LeDNOIzzp36VCJijMOkC0&usqp=CAU",
+        "category": "palette",
+        "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+        "price": "130.0",
+        "rating": 3.9,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 815,
+        "name": "Wear Everywhere Neutrals All About Shadow&trade; 8-Pan Palette",
+        "image_link": "https://www.clinique.com/media/export/cms/products/181x209/clq_ZCAE02_181x209.png",
+        "category": "palette",
+        "description": "Versatile eye shadow palettes are perfect for day… amped up for night when you layer multiple shades for extra depth and dimension. Long-wearing shades are crease- and fade-resistant. Ophthalmologist tested, too.",
+        "price": "37.0",
+        "rating": 4.4,
+        "product_type": "eyeshadow"
+    },
+    {
+        "id": 1031,
+        "name": "Bronzer - pressed",
+        "image_link": "https://www.morphe.com/cdn/shop/files/M2_Sun_Done_BronzerStick_PDP_Open_CaramelCove_400x.jpg?v=1706208161",
+        "category": "powder",
+        "description": "Our bronzer has been enhanced with Fruits, Botanicals and Clays for their natural color, fragrance and antioxidant benefits! Blended with Certified Organics Fruits and Botanicals Formulated with common skin irritants. Our bronzer will offer a natural 'ultra sheer' semi-matte finish. Made without any gluten containing ingredients VEGAN! Eco Friendly jars!",
+        "price": "60.0",
+        "rating": 4.5,
+        "product_type": "bronzer"
+    },
+    {
+        "id": 928,
+        "name": "Tango With Bronzing Powder",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw99f3e999/ProductImages/Face/Tango_With_Bronzing_Powder/tangowithbronzingpowder_main.jpg?sw=390&sh=390&sm=fit",
+        "category": null,
+        "description": "It takes two to tango with our brilliant bronzing powder to kickstart your look. Our mosaic bronzer shades create a golden glow on the face and body—like you’ve just returned from a Caribbean getaway. Sun-kissed never looked this beautiful.",
+        "price": "10.0",
+        "rating": 3.7,
+        "product_type": "bronzer"
+    },
+    {
+        "id": 927,
+        "name": "Illuminator",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw5248da3f/ProductImages/Face/Illuminator/800897809003_illuminator_narcissistic_main.jpg?sw=390&sh=390&sm=fit",
+        "category": null,
+        "description": "Brighten up your complexion! The radiant shimmer of this illuminator diffuses light so your skin looks vibrant and refreshed while adding a subtle glow. Available in 5 radiant colors.",
+        "price": "9.0",
+        "rating": 4.2,
+        "product_type": "bronzer"
+    },
+    {
+        "id": 926,
+        "name": "Matte Bronzer",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwed153ea9/ProductImages/Face/Matte_Bronzer/800897809058_mattebronzer_light_main.jpg?sw=390&sh=390&sm=fit",
+        "category": null,
+        "description": "Perfect for Spring Summer and beyond – the Matte Bronzers have arrived! Achieve a natural and healthy looking complexion using any of the powder bronzers available in five russet shades. Perfect for that desired honey glow all year long!",
+        "price": "9.0",
+        "rating": 3.8,
+        "product_type": "bronzer"
+    },
+    {
+        "id": 921,
+        "name": "Bright Idea Illuminating Stick",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwc8112b7d/ProductImages/2016/Face/Bright_Idea_Illuminating_Stick/brightideailluminatingstick_main.jpg?sw=390&sh=390&sm=fit",
+        "category": null,
+        "description": "Brighten things up with one of our new Bright Idea Illuminating Sticks! Available in a range of radiating hues--including four highlighters, four blushes and four bronzers--each creamy-soft shade goes on smoothly and sets right away for an instant, lit-from-within glow. Petite, portable and perfect for strobing, it’s the makeup must-have of the season.",
+        "price": "8.0",
+        "rating": 2,
+        "product_type": "bronzer"
+    },
+    {
+        "id": 919,
+        "name": "Mosaic Powder Blush",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw5b50439f/ProductImages/Face/Mosaic_Powder_Blush/800897124533_mosaicpowderblush_highlighter_main.jpg?sw=390&sh=390&sm=fit",
+        "category": null,
+        "description": "This medley of 9 matte and shimmery colors creates a flush of color and dazzling glow for every skin tone. Use to highlight enhance brighten and bronze. Each mosaic of color blends beautifully with magical results.",
+        "price": "7.0",
+        "rating": 3,
+        "product_type": "bronzer"
+    },
+    {
+        "id": 917,
+        "name": "Bronzer & Blusher Combo",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwa51d41b7/ProductImages/Face/Bronzer_And_Blusher_Combo/bronzerandblushercombo_main.jpg?sw=390&sh=390&sm=fit",
+        "category": null,
+        "description": "Get the perfect sun-kissed glow with complementing color combinations from our Bronzer/Blusher Combo. Each blush and bronzer pairing features flattering and natural-looking hues. With 5 shades to choose from it is easier than ever to achieve an impeccable Springtime and Summertime glow.",
+        "price": "9.0",
+        "rating": 3.3,
+        "product_type": "bronzer"
+    },
+    {
+        "id": 913,
+        "name": "Powder Blush",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw12ca4942/ProductImages/Face/Powder_Blush/powderblush_main.jpg?sw=390&sh=390&sm=fit",
+        "category": 2.9,
+        "description": "Our pressed powder blush delivers sheer silky color that glides on easily blends beautifully and creates a natural glow. The formula is richly-pigmented and lasts for hours.",
+        "price": "5.0",
+        "rating": 4.9,
+        "product_type": "bronzer"
+    }
+]

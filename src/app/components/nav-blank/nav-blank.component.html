@@ -1,0 +1,29 @@
+<div class="cont">
+<nav class="navbar">
+  <div class="container">
+    <div class="logo" routerLink="/products" (click)="setActiveCategory('')" [ngClass]="{'active': activeCategory === ''}">
+      <img src="assets\logo0.png">
+    </div>
+    <ul class="nav-links">
+      <li ><a routerLink="products" (click)="setActiveCategory('')" [ngClass]="{'active': activeCategory === ''}">Our Products</a></li>
+      <li>
+        <a routerLink="cart" class="cart-link" (click)="setActiveCategory('')" [ngClass]="{'active': activeCategory === ''}">
+          <svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 4h1.5L9 16m0 0h8m-8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-8.5-3h9.25L19 7H7.312"/>
+          </svg>
+          <span class="cart-badge"  >{{ cartItemCount }}  </span>
+        </a>
+      </li>
+      <li (click)="logOutUser()" id="signout"><span>SignOut</span></li>
+    </ul>
+  </div>
+</nav>
+
+<section class="category-buttons">
+  <button [routerLink]="['/categories', 'Blush']" (click)="setActiveCategory('Blush')" [ngClass]="{'active': activeCategory === 'Blush'}">Blush</button>
+  <button [routerLink]="['/categories', 'Lipstick']" (click)="setActiveCategory('Lipstick')" [ngClass]="{'active': activeCategory === 'Lipstick'}">Lipstick</button>
+  <button [routerLink]="['/categories', 'Eyeliner']" (click)="setActiveCategory('Eyeliner')" [ngClass]="{'active': activeCategory === 'Eyeliner'}">Eyeliner</button>
+  <button [routerLink]="['/categories', 'Eyeshadow']" (click)="setActiveCategory('Eyeshadow')" [ngClass]="{'active': activeCategory === 'Eyeshadow'}">Eyeshadow</button>
+  <button [routerLink]="['/categories', 'Bronzer']" (click)="setActiveCategory('Bronzer')" [ngClass]="{'active': activeCategory === 'Bronzer'}">Bronzer</button>
+</section>
+</div>

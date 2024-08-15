@@ -1,0 +1,31 @@
+<section class="cart-section">
+  <h2 class="cart-title">Shopping Cart</h2>
+
+  <div *ngIf="cart.length === 0" class="empty-cart">
+      <p>Your cart is empty</p>
+  </div>
+
+  <div *ngIf="cart.length > 0" class="cart-items">
+      <div *ngFor="let item of cart" class="cart-item">
+          <div class="cart-item-info">
+              <img [src]="item.image_link" alt="{{item.name}}" class="cart-item-image">
+              <div class="cart-item-details">
+                  <h3 class="item-name">{{item.name}}</h3>
+                  <p class="item-category">Category: {{item.category}}</p>
+                  <p class="item-price">Price: {{item.price}} $</p>
+              </div>
+          </div>
+          <div class="cart-item-controls">
+              <button (click)="decreaseQuantity(item)" class="quantity-btn">-</button>
+              <span class="item-quantity">{{item.quantity}}</span>
+              <button (click)="increaseQuantity(item)" class="quantity-btn">+</button>
+              <button (click)="removeFromCart(item)" class="remove-item-btn">Remove</button>
+          </div>
+      </div>
+
+      <div class="cart-summary">
+          <button (click)="emptyCart()" class="empty-cart-btn">Empty Cart</button>
+          <h3 class="total-amount">Total: {{calculateSubtotal()}} $</h3>
+      </div>
+  </div>
+</section>

@@ -1,0 +1,113 @@
+
+
+  #signout,
+  .nav-links a {
+    text-decoration: none;
+    color: #495057; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 8px 12px;
+    border-radius: 4px; 
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  #signout:hover,  #signout:active,
+  .nav-links a:hover,
+  .nav-links a.active {
+    color: #fff; 
+    font-weight: bold;
+  }
+
+  .navbar {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef); 
+    border-bottom: 2px solid #dee2e6; 
+    padding: 12px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  .logo{
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    padding: 0 !important; 
+    margin: 0;
+    cursor: pointer;
+  }
+  .navbar {
+    background-color: #fff;
+    border-bottom: 0px solid #ddd;
+    padding:  0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    
+    
+  }
+  
+  .navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 ;
+  }
+  .img{
+    background-color: #bea9a9;
+    width:100%;
+    position: relative;
+    left: 0px;;
+  }
+   img{
+    margin:0;
+    padding: 0 !important; 
+    height: 80px;
+    margin: 0;
+    width:100%;
+    position: relative;
+  
+  }
+  
+
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    position: relative;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .nav-links a:hover {
+    background-color: #f0f0f0;
+    color: #1f1d1d;
+  }

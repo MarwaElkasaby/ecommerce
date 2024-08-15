@@ -1,0 +1,140 @@
+/* Cart Section */
+.cart-section {
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.cart-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.empty-cart {
+  text-align: center;
+  font-size: 22px;
+  color: #666;
+  height: 150px;
+}
+.empty-cart p{
+  margin-top: 50px;
+}
+
+.cart-items {
+  margin-top: 20px;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.cart-item-info {
+  display: flex;
+  gap: 15px;
+}
+
+.cart-item-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.cart-item-details {
+  flex: 1;
+}
+
+.item-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.item-category, .item-price {
+  font-size: 16px;
+  color: #666;
+  margin: 5px 0;
+}
+
+.cart-item-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.quantity-btn {
+  background-color: #948181;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.quantity-btn:hover {
+  background-color: #887979;
+}
+
+.item-quantity {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.remove-item-btn {
+  background-color: #f44336;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.remove-item-btn:hover {
+  background-color: #c62828;
+}
+
+.cart-summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.empty-cart-btn {
+  background-color: #fd430a;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.empty-cart-btn:hover {
+  background-color: #b8a2a2;
+}
+
+.total-amount {
+  font-size: 22px;
+  font-weight: bold;
+  color: #000000;
+}

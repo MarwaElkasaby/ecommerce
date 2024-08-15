@@ -1,0 +1,76 @@
+<section class="cont">
+    <h1>Register Now</h1>
+    <form [formGroup]="registerForm" (ngSubmit)="handleForm()">
+        <div>
+            <label for="name">Name</label>
+            <input formControlName="name" type="text" id="name">
+            @if(registerForm.get('name')?.errors && registerForm.get('name')?.touched){
+            <div>
+                @if(registerForm.get('name')?.getError("required")){ <p>Required</p> }
+                @if(registerForm.get('name')?.getError("minlength")){<p>Name Min Length 3</p>}
+                @if(registerForm.get('name')?.getError("maxlength")){<p>Name Max Length 20</p>}
+
+            </div>
+            }
+
+        </div>
+        <div>
+            <label for="email">Email</label>
+            <input formControlName="email" type="email" id="email">
+            @if(registerForm.get('email')?.errors && registerForm.get('email')?.touched){
+            <div>
+                @if(registerForm.get('email')?.getError("required")){ <p>Required</p> }
+                @if(registerForm.get('email')?.getError("email")){<p>Email invalid </p>}
+
+            </div>
+            }
+        </div>
+        <div>
+            <label for="password">Password</label>
+            <input formControlName="password" type="password" id="password">
+            @if(registerForm.get('password')?.errors && registerForm.get('password')?.touched){
+            <div>
+                @if(registerForm.get('password')?.getError("required")){ <p>Password is Required</p> }
+                @if(registerForm.get('password')?.getError("pattern")){<p>Password must have uppercase and lowecase
+                    charachters, min length 6, max length 10, no special charachters</p>}
+
+            </div>
+            }
+        </div>
+        <div>
+            <label for="rePassword">re-Password</label>
+            <input formControlName="rePassword" type="password" id="rePassword">
+            @if(registerForm.get('rePassword')?.errors && registerForm.get('rePassword')?.touched){
+            <div>
+                @if(registerForm.get('rePassword')?.getError("required")){ <p> Required</p> }
+                @if(registerForm.get('rePassword')?.getError("pattern")){<p>Accepts uppercase and lowecase charachters,
+                    min length 6, max length 10,no special charachters </p>}
+
+            </div>
+            }
+        </div>
+        <div>
+            <label for="phone">Phone</label>
+            <input formControlName="phone" type="tel" id="phone">
+            @if(registerForm.get('phone')?.errors && registerForm.get('phone')?.touched){
+            <div>
+                @if(registerForm.get('phone')?.getError("required")){ <p>phone is Required</p> }
+                @if(registerForm.get('phone')?.getError("pattern")){<p>Accepts only Egyptian phone number ex:01234567891
+                </p>}
+
+            </div>
+            }
+        </div>
+        <!--  -->
+        <button [disabled]="registerForm.invalid">
+            <span class="button-text">Register</span>
+            @if(isLoading){       <div class="spinner" ></div> }     
+            </button>
+
+        @if(msgError)
+        {
+                    <p>{{msgError}}</p>
+
+        }
+    </form>
+</section>

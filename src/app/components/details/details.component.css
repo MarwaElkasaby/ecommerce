@@ -1,0 +1,139 @@
+/* Product Details Section */
+.product-details {
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: 150px auto 80px;
+}
+
+.product-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.product-image {
+  flex: 1;
+  max-width: 100%;
+  flex-basis: 400px; /* Adjust based on your preferred image size */
+}
+
+.product-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-info {
+  flex: 2;
+  max-width: 100%;
+  min-width: 300px; /* Ensure the info section doesn’t get too small */
+}
+
+.product-name {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0;
+  color: #333;
+}
+
+.product-category {
+  font-size: 18px;
+  color: #666;
+  margin: 5px 0 15px;
+}
+
+.product-description {
+  font-size: 16px;
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.product-price-rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.product-price {
+  font-size: 24px;
+  font-weight: bold;
+  color: #312f30;
+  margin: 0;
+}
+
+.product-rating {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.rating-icon {
+  font-size: 20px;
+  color: #ffd700;
+}
+
+.rating-value {
+  font-size: 16px;
+  color: #333;
+}
+
+.add-to-cart {
+  background-color: #a18e8e;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart:hover {
+  background-color: #867575;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .product-container {
+    flex-direction: column;
+  }
+
+  .product-image,
+  .product-info {
+    max-width: 100%;
+  }
+
+  .product-image {
+    margin-bottom: 20px;
+  }
+}
+
+  
+  /* Notification */
+  .notification {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #4caf50;
+    color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    display: none;
+    align-items: center;
+  }
+  
+  .notification.visible {
+    display: flex;
+  }
+  
+  .checkmark-icon {
+    margin-left: 10px;
+  }
+  
+  
